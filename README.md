@@ -1,5 +1,6 @@
-# transformer
-Pytorch reimplementation of transformer model that was released with the paper(Attention is all you need).
+# Labarotory
+Pytorch reimplementation of deep learning model.
 
-# Reference
-https://arxiv.org/abs/1706.03762
+# List or implementation
+- transformers(Attention is all you need)
+
