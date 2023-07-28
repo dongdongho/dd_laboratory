@@ -1,4 +1,4 @@
-# Labarotory
+# Laboratory
 Pytorch reimplementation of deep learning model.
 
 # List or implementation
